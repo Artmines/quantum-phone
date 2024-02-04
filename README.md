@@ -33,3 +33,8 @@ Advanced Phone for Quantum Framework 📞
 ### Manual
 - Download the script and put it in the `[quantum]` directory.
 - ensure the script
+
+### Info
+- Why is there no html?
+
+To answer that is the framework is completly new and not the same as others, we run a modularly built framework
